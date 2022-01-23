@@ -9,7 +9,7 @@ Java back-end with jsp's and servlets connecting to the front-end html and css w
 ### Notes:
 * No live website
 * Free to pull
-* Styling outdated, marks were based on functionality then aesthetics
+* Styling outdated
 * Built using Netbean
 * Admin login information:
   * Username: admin
